@@ -4,7 +4,7 @@ object compare{
     var c=4;
     var d=5;
     var k=4.3f;
-    var g=0; 
+    var g=0;
 
     def main(args: Array[String]): Unit = {
         
